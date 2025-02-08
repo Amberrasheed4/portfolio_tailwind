@@ -1,7 +1,6 @@
 import Link from 'next/link';
 import React from 'react'
 import { RiMenu4Line } from "react-icons/ri";
-Link
 
 function Navbar() {
   return (
